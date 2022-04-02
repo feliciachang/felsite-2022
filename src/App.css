@@ -1,7 +1,16 @@
 .App {
-  text-align: center;
+  margin: 20px;
+  /* display: flex;
+  justify-content: space-between; */
+  font-size: 10vh;
 }
-
+.title {
+  cursor: pointer;
+  color: #1b5e20;
+}
+.subtitle {
+  color: #a1887f;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
