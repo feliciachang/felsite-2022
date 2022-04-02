@@ -29,7 +29,7 @@ function App() {
       </div>
       <TextExpander
         title="Two Pages Double Spaced"
-        subtitle="an experiment in feeling too much roughly every two weeks"
+        subtitle="an experiment in feeling too much"
         link="https://twopagesdoublespaced.substack.com/"
       />
       <TextExpander
