@@ -54,7 +54,7 @@ function App() {
       />
       <TextExpander
         title="In Graphical Translation"
-        subtitle="part two of my senior thesis in computing in the arts playing with image as type and type as image"
+        subtitle="part two of my senior thesis playing with image as type and type as image"
         link=""
       />
       <TextExpander
