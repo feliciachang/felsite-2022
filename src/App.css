@@ -7,10 +7,12 @@
 .title {
   cursor: pointer;
   color: #1b5e20;
+  word-break: break-all;
 }
 .subtitle {
   color: #a1887f;
   cursor: ne-resize;
+  word-break: break-all;
 }
 .bio {
   background-color: #1b5e20;
@@ -68,13 +70,8 @@
   box-shadow: 1px 1px 20px #d7ccc8;
   vertical-align: bottom;
 }
-/* .img img {
-  width: 100%;
-  height: auto;
-  vertical-align: bottom;
-} */
 
 a {
   color: white;
-  
+  text-decoration: none;
 }

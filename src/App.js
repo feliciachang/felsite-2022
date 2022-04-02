@@ -63,7 +63,7 @@ function App() {
         link="https://www.youtube.com/watch?v=C1u5e_T_vbo"
       />
       <TextExpander
-        title="Dance Exercises"
+        title="Dance Exercise"
         subtitle="a practice in responding to sound with shape and color"
         link="https://youtube.com/playlist?list=PLdso2CHmTwiyyGUasf1pLgsYokBWSkOkr"
       />
