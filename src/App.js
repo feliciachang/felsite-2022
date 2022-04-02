@@ -39,7 +39,7 @@ function App() {
       />
       <TextExpander
         title="Neeva"
-        subtitle="reimagining search in the product innovation group also known as PIG"
+        subtitle="reimagining search with the product innovation group colloquially known as PIG"
         link="https://neeva.com/about"
       />
       <TextExpander
