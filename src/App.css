@@ -7,13 +7,14 @@
 .title {
   cursor: pointer;
   color: #1b5e20;
-  word-break: break-all;
 }
+
 .subtitle {
   color: #a1887f;
   cursor: ne-resize;
   word-break: break-all;
 }
+
 .bio {
   background-color: #1b5e20;
   color: white;
