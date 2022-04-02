@@ -29,7 +29,7 @@ function App() {
       </div>
       <TextExpander
         title="Two Pages Double Spaced"
-        subtitle="an experiment in feeling too much"
+        subtitle="an experiment in feeling too much roughly every two weeks"
         link="https://twopagesdoublespaced.substack.com/"
       />
       <TextExpander
@@ -39,22 +39,22 @@ function App() {
       />
       <TextExpander
         title="Neeva"
-        subtitle="reimagining search on the product innovation team"
+        subtitle="reimagining search in the product innovation group also known as PIG"
         link="https://neeva.com/about"
       />
       <TextExpander
         title="Read Alibi"
-        subtitle="a website celebrati interactive poetry"
+        subtitle="a website made with interactive poetry and friends"
         link="https://readalibi.org/invitation"
       />
       <TextExpander
         title="Only Observations"
-        subtitle="senior thesis in computing in the arts challenging the ethics and politics of making"
+        subtitle="part one of my senior thesis in computing in the arts challenging the ethics and politics of making"
         link="https://docs.google.com/presentation/d/1udt4abrDLhs7Gn5PICJdox2cRSzfU4_5ClgvWRL238U/edit?usp=sharing"
       />
       <TextExpander
         title="In Graphical Translation"
-        subtitle="senior thesis in computing in the arts playing with image as text"
+        subtitle="part two of my senior thesis in computing in the arts playing with image as type and type as image"
         link=""
       />
       <TextExpander
