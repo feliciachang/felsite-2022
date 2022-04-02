@@ -3,7 +3,7 @@ import React from 'react';
 
 const TextExpander = ({title, subtitle, link}) => {
   const [isActive, setIsActive] = React.useState(false);
-  console.log(title)
+
   return (
     <span>
       <span className="title" onClick={() => setIsActive(!isActive)}>{title} · </span>
@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <div className="bio">
-          Writing words, while loops and wandering wectors...
+          writing words, while loops and wandering wectors...
         </div>
         <TextExpander 
           title="Two Pages Double Spaced" 
