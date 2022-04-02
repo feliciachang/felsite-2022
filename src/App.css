@@ -10,7 +10,7 @@
 }
 .subtitle {
   color: #a1887f;
-  cursor: pointer;
+  cursor: ne-resize;
 }
 .bio {
   background-color: #1b5e20;
