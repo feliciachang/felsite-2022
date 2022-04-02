@@ -15,6 +15,9 @@ const TextExpander = ({title, subtitle, link}) => {
 function App() {
   return (
     <div className="App">
+      <div className="bio">
+          Writing words, while loops and wandering wectors...
+        </div>
         <TextExpander 
           title="Two Pages Double Spaced" 
           subtitle="an experiment in feeling too much"
@@ -60,17 +63,13 @@ function App() {
           subtitle="a collision of one woman's poem and another woman's daily commute"
           link=""
         />
-        {/* <span onClick={}>Two Pages Double Spaced</span><span></span> ·  */}
-        {/* Love in the form of Taiwanese dinner · 
-        Read Alibi · 
-        Only Observations · 
-        The Making of Nature · 
-        Cacophany ·
-        Go Figure ·  
-        Lux et Veritas · 
-        Dance Exercise · 
-        The Yale Politic · 
-        Alone in Beijing ·  */}
+        <div className="bio">
+          <div className="socials">
+            <div>twitter</div>
+            <div>email</div>
+            <div>instagram</div>
+            </div>
+        </div>
     </div>
   );
 }

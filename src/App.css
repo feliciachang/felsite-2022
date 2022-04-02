@@ -11,6 +11,21 @@
 .subtitle {
   color: #a1887f;
 }
+.bio {
+  background-color: #1b5e20;
+  color: white;
+  font-size: 12px;
+  border-radius: 20px;
+  padding: 5px;
+  text-align: center;
+  margin-top: 20px;
+}
+.socials {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
