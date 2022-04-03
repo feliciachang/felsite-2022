@@ -34,12 +34,12 @@ function App() {
       />
       <TextExpander
         title="Love in the form of Taiwanese dinner"
-        subtitle="an essay on grief and family and the power of a good dinner"
+        subtitle="an essay on family and the restorative power of a good dinner"
         link="https://audacity.substack.com/p/love-in-the-form-of-taiwanese-dinner?s=r"
       />
       <TextExpander
         title="Neeva"
-        subtitle="reimagining search with the product innovation group colloquially known as PIG"
+        subtitle="reimagining search with the product innovation group"
         link="https://neeva.com/about"
       />
       <TextExpander
