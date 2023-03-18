@@ -28,6 +28,11 @@ function App() {
         writing words, while loops and wandering wectors...
       </div>
       <TextExpander
+        title="Laid Off Club"
+        subtitle="a collective for people impacted by recent layoffs"
+        link="https://www.offand.co/"
+      />
+      <TextExpander
         title="Two Pages Double Spaced"
         subtitle="an experiment in feeling too much"
         link="https://twopagesdoublespaced.substack.com/"
